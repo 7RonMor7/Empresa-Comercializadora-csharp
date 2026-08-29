@@ -1,0 +1,27 @@
+## Visual Studio / .NET Framework - Empresa Comercializadora
+
+# Carpetas de compilación
+[Bb]in/
+[Oo]bj/
+
+# Carpeta de caché/config local de Visual Studio
+.vs/
+
+# Archivos de usuario (config local de cada PC, no se comparte)
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Paquetes NuGet (se restauran automáticamente al abrir el proyecto)
+packages/
+*.nupkg
+
+# Certificados/PDFs generados en tiempo de ejecución
+Empresa Comercializadora/Certificados/*.pdf
+!Empresa Comercializadora/Certificados/.gitkeep
+
+# Otros
+*.log
+Thumbs.db
+.DS_Store

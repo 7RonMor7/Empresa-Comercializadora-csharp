@@ -2,10 +2,6 @@
 
 Aplicación de escritorio en C# (WinForms) para la gestión de una comercializadora de seguros: administración de clientes, aseguradoras, pólizas, pagos, usuarios del sistema y generación de certificados en PDF, con persistencia en SQL Server.
 
-## Descripción corta (para el "About" del repositorio)
-
-> Sistema de escritorio en C# WinForms para la gestión de una comercializadora de seguros (clientes, pólizas, pagos, aseguradoras y usuarios), con generación de certificados en PDF y persistencia en SQL Server.
-
 ## Características
 
 - Inicio de sesión con pantalla de bienvenida (Splash).
@@ -68,4 +64,4 @@ Empresa Comercializadora/
 
 ## Licencia
 
-Proyecto académico/personal. Ajusta esta sección según cómo quieras licenciarlo (por ejemplo, MIT).
+Proyecto académico/personal.
